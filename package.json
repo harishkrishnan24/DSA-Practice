@@ -1,0 +1,23 @@
+{
+  "name": "dsa-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harishkrishnan24/DSA-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harishkrishnan24/DSA-Practice/issues"
+  },
+  "homepage": "https://github.com/harishkrishnan24/DSA-Practice#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
