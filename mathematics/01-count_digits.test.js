@@ -1,3 +1,5 @@
+// Time - O(d) Space - O(1)
+
 function countDigits(num) {
   let numDigits = 0;
 
