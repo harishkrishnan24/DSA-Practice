@@ -1,5 +1,3 @@
-// Time - O(n) Space - O(n)
-
 function factorial(num) {
   if (num === 0) return 1;
 

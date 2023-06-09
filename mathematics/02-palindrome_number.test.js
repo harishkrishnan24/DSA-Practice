@@ -1,5 +1,3 @@
-// Time - O(d) Space - O(1)
-
 function isPalindromeNumber(num) {
   let reversed = 0;
   let temp = num;

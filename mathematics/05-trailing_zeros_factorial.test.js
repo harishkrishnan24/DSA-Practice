@@ -1,5 +1,3 @@
-// Time - O(logn) Space - O(1)
-
 function trailingZerofactorial(num) {
   let result = 0;
 

@@ -1,5 +1,3 @@
-// Time - O(d) Space - O(1)
-
 function factorial(num) {
   let result = 1;
 
