@@ -16,3 +16,6 @@ function bubbleSort(arr) {
 }
 
 console.log(bubbleSort([3, 2, 6, 10, 4])); // [2, 3, 4, 6, 10]
+
+// Time - O(n^2)
+// Space - O(1)
